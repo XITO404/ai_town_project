@@ -2,8 +2,6 @@
 # 뉴럴네트워크 기말 프로젝트
 - - -
 
-## I'm gonna edit the readme file after the final exam... 🙃
-
 ## Stack
 
 - Game engine, database, and vector search: [Convex](https://convex.dev/)
